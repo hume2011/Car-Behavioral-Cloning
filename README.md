@@ -1,5 +1,5 @@
 
-# Behavioral Cloning**
+# Behavioral Cloning
 
 The steps of this project are the following:
 * Use the simulator to collect data of good driving behavior
